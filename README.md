@@ -61,14 +61,12 @@
 
 ![Preview](visual2.gif)
 
-> Sandeep Shaw\
-> Student, C.S.E\
-> GCECT Kolkata
 
-If you like this repository make sure to give it a star :dizzy:
+
+
 
 Thank You !
 
-Have a nice Day :hugs:
+Have a nice Day :
 
 
